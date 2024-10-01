@@ -1,0 +1,11 @@
+---
+title: "About"
+---
+
+Hi, I'm Sana Shaik!
+
+I was born in Hyderabad, India. I have pursued my academic journey with a deep interest in both technology and business. I completed my B.Tech in Computer Science and Engineering from GNITS, JNTUH, followed by an MBA from Aackba, OSMANIA UNIVERSITY. Currently, I am pursuing my Master's in Data Analytics Engineering at George Mason University,USA.
+
+With a unique blend of technical and business education, I am passionate about exploring how data can drive decision-making and innovation. My goal is to harness data insights to make a significant impact in the field of analytics.
+
+In addition to academics, I enjoy learning about the latest trends in technology and data science, and I'm excited to work on projects that bring meaningful insights to life.
